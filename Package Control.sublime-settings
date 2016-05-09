@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"CSS Unminifier",
+		"CSSLint",
+		"CSSTidy",
+		"Emmet",
+		"FileZilla SFTP Import",
+		"FindKeyConflicts",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JSLint",
+		"Macroptimize",
+		"Markdown Extended",
+		"Monokai Extended",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"Theme - itg.flat"
+	]
+}

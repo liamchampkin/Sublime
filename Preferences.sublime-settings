@@ -1,0 +1,16 @@
+{
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 3,
+	"theme": "Seti.sublime-theme"
+}
